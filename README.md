@@ -10,8 +10,8 @@ multi-source public dataset.
 - Gemini 2.5 Flash-Lite
 
 ## Dataset
-Public multi-source corpus (Enron, SpamAssassin, Nazario, etc.)
-Stored as ham_spam.xlsx.
+Kaggle dataset that is taken from Public multi-source corpus (Enron, SpamAssassin, Nazario, etc.)
+Stored as spam_ham_dataset.xlsx.
 
 ## How to Run
 1. Create a virtual environment
