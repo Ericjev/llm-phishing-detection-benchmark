@@ -11,10 +11,10 @@ multi-source public dataset.
 
 ## Dataset
 Kaggle dataset that is taken from Public multi-source corpus (Enron, SpamAssassin, Nazario, etc.)
-Stored as spam_ham_dataset.xlsx.
+Stored as spam_ham_dataset.csv.
 
 ## How to Run
 1. Create a virtual environment
-2. Install dependencies
+2. Install dependencies from requirements.txt
 3. Set API keys as environment variables
-4. Run evaluate_llms.py
+4. Run test.py
